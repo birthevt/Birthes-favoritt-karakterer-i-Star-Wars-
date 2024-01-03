@@ -1,0 +1,8 @@
+h1 {
+    color: rgb(166, 85, 242);
+    text-shadow: 2px 2px 5px grey;
+}
+
+h3 {
+    text-shadow: 2px 2px 5px rgb(166, 85, 242); 
+}

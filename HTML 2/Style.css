@@ -1,0 +1,70 @@
+
+h1{
+    text-shadow: 2px 2px 5px rgb(192, 192, 192) ;
+}
+p {
+    color: black;
+    text-shadow: 2px 2px 5px rgb(192, 192, 192);    
+}
+
+body{
+    background-image: url("HyperSpace.png");
+    text-align: center;
+}
+ul.obi{
+    display: inline-block;
+    text-align: center;
+}
+ul.sabine{
+    display: inline-block;
+    text-align: center;
+}
+ul.ezra{
+    display: inline-block;
+    text-align: center;
+}
+
+.ahsoka{
+    text-shadow: 2px 2px 5px rgb(255, 121, 43)
+}
+
+.ahsokaoverskrift{
+    color: orange;
+    text-shadow: 2px 2px 5px rgb(255, 181, 43)
+
+}
+.obioverskrift{
+    color: rgb(91, 91, 255);
+    text-shadow: 2px 2px 5px rgba(0, 108, 240, 0.797);    
+}
+.obi{
+    text-shadow: 2px 2px 5px  rgb(91, 91, 255);
+}
+
+.sabineoverskrift{
+    color: rgb(186, 0, 186);
+    text-shadow: 2px 2px 5px rgba(187, 23, 187, 0.903);
+}
+.sabine{
+    text-shadow: 2px 2px 5px rgba(187, 23, 187, 0.903);
+}
+.ezraoverskrift{
+    color:rgb(0, 168, 0);
+    text-shadow: 2px 2px 5px rgba(19, 163, 19, 0.866);
+}
+.ezra{
+    text-shadow: 2px 2px 5px rgba(19, 163, 19, 0.866);
+}
+img{
+    box-shadow: 4px 4px 5px rgb(48, 48, 48);
+}
+
+ul{
+    display: inline-block;
+}
+div.boks{
+    width: 400px;             
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;      
+}
